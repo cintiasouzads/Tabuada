@@ -1,2 +1,4 @@
 # Tabuada
- Tabuada em JavaScript
+ Tabuada com JavaScript
+ <br>
+ Em finalização :triangular_flag_on_post:
