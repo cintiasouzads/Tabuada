@@ -1,57 +1,81 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:wght@300;400&family=Outfit:wght@100;400;600;700&family=Passion+One&family=Poppins:ital,wght@0,200;0,700;1,400;1,500&family=Sriracha&family=Work+Sans&display=swap');
 * {
-font-family: poppins;
+    padding:0;
+    margin:0;
+    font-family: poppins;
 }
 
 
 body{
-    background: #260261;
+    background-color:#260261
 }
 
 h1{
     text-align: center;
     color:#A26CFA;
-    margin: 50px 30px;
-    font-size:3.1em;
+    margin: 60px;
+    font-size:2.1em;
     border:10px solid #ffff;
 }
 
-section{
-    background: #A26CFA;
-    border-radius: 10px;
-    box-sizing:border-box;
-    padding:20px 20px;
-    margin: auto;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.397);
-}
-
-p{
-    font-size: 1.2em;
-    font-weight: 600;
-}
-
-#tabu{
-    font-size: 0.8em;
-   font-weight: 600;
+#txtn{
+    color:#260261;
+    border:none;
+    font-size: 1em;
+    font-weight: bold;
+    padding: 05px;
+    width: 60px;
+    text-align: center;
    
 }
 
+section{
+    background-color: #A26CFA;
+    border-radius: 10px;
+    box-sizing:border-box;
+    padding: 15px;
+    margin: 15px 20px;
+}
+
+p{
+    text-align: center;
+    font-size: 1em;
+    font-weight: 600;
+}
+
+#tabu-btn{
+    display:block;
+    padding: 15px;
+    margin: 10px auto;
+    font-size: 0.8em;
+    font-weight: 600;
+    border: none;
+   
+  }
+
+#tabu-btn:hover{
+    background-color:#513b73;
+    border:#ffffff;
+  
+}
+
 select{
+    display:block;
    box-sizing: border-box;
-   margin-left:20%;
-   padding:10px;
+   margin:auto;
+   padding:10px 30px;
    background-color: #ffffff;
-   color:;
    border-radius: 10px;
+
 }
 
 input{
-    border-radius: 50px;
-    padding: 10px;
+    border-radius: 20px;
+   
 }
 
 option{
   color:#260261;
-  font-size: 1.3em; 
+  font-size: 1em; 
   font-weight: 600; 
 }
