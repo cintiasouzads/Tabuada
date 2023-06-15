@@ -1,6 +1,9 @@
 # Tabuada
 Projeto de tabuda feito com HTML, CSS e JavaScript, adaptado para tamanhos diferentes de tela
 <br>
+https://github.com/cintiasouzads/Tabuada
+
+<br>
 <br>
 ![celular](https://user-images.githubusercontent.com/99051178/216380724-e46af431-4f37-478b-addc-5ed1ce58b67f.png)
  <br>
